@@ -1,7 +1,8 @@
 # Deep_learning_Images_Recognition
 How to recognize main characters of Game of Throne !
 
-#### !! For better experience please run it on Google Colab !! Then follow the link tutorial inside the notebook.
+#### !! For better experience please run it on Google Colab. Then follow the link tutorial inside the notebook !!
+
 
 This notebook shows you how to use Resnet Deep Learning tool for images recognition with GOT example.
 
