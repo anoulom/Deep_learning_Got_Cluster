@@ -9,7 +9,7 @@ This notebook shows you how to use Resnet Deep Learning tool for images recognit
 Of course you can apply this process to all other topic like food recognition, cars or cats/dogs recognition....
 
 
-The notebook also shows how to pick up bunch of images quickly from Google to build your own image database
+The notebook also shows how to pick up bunch of images quickly from Google to build your own image database.
 
 
 
