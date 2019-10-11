@@ -1,7 +1,7 @@
 # Deep_learning_Images_Recognition
 How to recognize main characters of Game of Throne !
 
-#### !! For a better experience please run it on Google Colab. Then follow the link tutorial inside the notebook !!
+### !! For a better experience please run it on Google Colab. Then follow the link tutorial inside the notebook !!
 
 
 
